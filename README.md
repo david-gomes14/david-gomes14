@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a 2nd year Computer Science student at FEUP, Portugal 🇵🇹. I enjoy turning ideas into code and learning how things work behind the scenes 🛠️.<br>
+<p align="left">I'm a 2nd year Informatics and Computer Engineering student at FEUP, Portugal 🇵🇹. I enjoy turning ideas into code and learning how things work behind the scenes 🛠️.<br>
 Big fan of clean design, good UX, and solving problems that make you question your life choices for hours.</p>
 
 <h2>About Me</h2>
